@@ -1,4 +1,4 @@
-# MyProject
+# CodeEditor[Work In Progress]
 This is my first project submission on git hub.
 To run this project ->
 1) Double click on main.py file.
